@@ -2,6 +2,8 @@
 
 A modern anime discovery platform where you can explore thousands of anime titles with smooth animations and an intuitive interface. Browse, discover, and learn about your favorite anime series and movies.
 
+> One of my first **Next.js** learning projects — it fetches anime data from a public API (Jikan / MyAnimeList) and visualizes it with infinite scroll and animations.
+
 ## 🎯 What Does It Do?
 
 Anime Vault is your gateway to discovering anime. The platform provides:
